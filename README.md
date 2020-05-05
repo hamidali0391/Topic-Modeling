@@ -1,3 +1,3 @@
-# Topic-Modelling
-Trying out topic modelling experiments
-first try
+# Topic-Modeling
+Trying out topic modeling experiments
+
